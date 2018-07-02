@@ -1,9 +1,3 @@
-[[AJACS23]]
-        --
-目次
-
-#contents
-        --
 #  Kazusa Annotation Suiteによるゲノムアノテーション（かずさDNA研究所・○藤澤貴智、中尾光輝、岡本忍、中村保一） [#x573474f]
 
 ##  [[KazusaAnnotation>http://a.kazusa.or.jp/]] 【http://a.kazusa.or.jp】 [#rf4c8f08]
