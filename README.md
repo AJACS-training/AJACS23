@@ -41,7 +41,7 @@
 
 <div class="jumpmenu">↑</div>
 
-### [_](http://MotDB.DBCLS.jp/?AJACS23#a1243bdd "a1243bdd") 内容  
+### 内容  
 
 * 13:30-13:45　はじめに～「統合データベースプロジェクトとは」　　担当-川本祥子（DBCLS)
 
@@ -49,10 +49,10 @@
 
         * データベースカタログ&横断検索の簡単な実習
 
-* 13:45-14:25 「[Kazusa Annotation Suiteによるゲノムアノテーション](http://MotDB.DBCLS.jp/?AJACS23%2Ftf "AJACS23/tf (2793d)")」
-* 14:25-15:05 「[遺伝子発現データベースの活用法](http://MotDB.DBCLS.jp/?AJACS23%2Fhono "AJACS23/hono (2793d)")」
+* 13:45-14:25 「[Kazusa Annotation Suiteによるゲノムアノテーション](01_fujisawa.md)」
+* 14:25-15:05 「[遺伝子発現データベースの活用法](02_hono.md)」
 * 15:05-15:20 休憩
-* 15:20-16:00 「[TogoProtから探るタンパク質](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS23_protein.pdf&refer=AJACS23) 」
-* 16:00-17:00 「[Galaxy でできるゲノムスケール共同研究](http://MotDB.DBCLS.jp/?AJACS23%2Fnakao "AJACS23/nakao (2792d)")」
+* 15:20-16:00 「[TogoProtから探るタンパク質](AJACS23_hatanaka.pdf) 」
+* 16:00-17:00 「[Galaxy でできるゲノムスケール共同研究](03_nakao.md)」
 
 }}
